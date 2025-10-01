@@ -1,5 +1,5 @@
 import leakcheck
-from leakcheck import LeakCheckAPI
+from leakcheck import LeakCheckAPI_v2
 
 from colorama import Fore
 
